@@ -6,9 +6,7 @@
   - [Backend](#backend)
   - [Frontend](#frontend)
   - [Infrastructure](#infrastructure)
-  - [Monitoring and Observability](#monitoring-and-observability)
   - [Security and Data Privacy](#security-and-data-privacy)
-- [Conclusion](#conclusion)
 
 ## Project Overview
 The restaurant review and recommendation system aims to provide users with a one-stop platform to discover, evaluate, and choose the best restaurants based on various criteria such as cuisine, ambiance, pricing, and hygiene. The key features include:
